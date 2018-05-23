@@ -1,46 +1,16 @@
-Task 1 Begin
+1. What are the most popular three articles of all time?
 
 "Candidate is jerk, alleges rival" - 338647 views
 "Bears love berries, alleges bear" - 253801 views
 "Bad things gone, say good people" - 170098 views
 
-Task 2 Begin
+2. Who are the most popular article authors of all time?
 
 Ursula La Multa - 507594 views
 Rudolf von Treppenwitz - 423457 views
 Anonymous Contributor - 170098 views
 Markoff Chaney - 84557 views
 
-Task 3 Begin
+3. On which days did more than 1% of requests lead to errors?
 
-Jul 01,2016 - 0.712966095079% errors
-Jul 02,2016 - 0.70971155425% errors
-Jul 03,2016 - 0.73625263931% errors
-Jul 04,2016 - 0.696953579223% errors
-Jul 05,2016 - 0.780990362247% errors
-Jul 06,2016 - 0.772712219892% errors
-Jul 07,2016 - 0.66200809121% errors
-Jul 08,2016 - 0.764643471262% errors
-Jul 09,2016 - 0.747820377193% errors
-Jul 10,2016 - 0.685539007354% errors
-Jul 11,2016 - 0.74499944541% errors
-Jul 12,2016 - 0.684830903683% errors
-Jul 13,2016 - 0.698943372812% errors
-Jul 14,2016 - 0.698739350154% errors
-Jul 15,2016 - 0.74788283169% errors
-Jul 16,2016 - 0.691005838445% errors
-Jul 17,2016 - 2.31506899455% errors
-Jul 18,2016 - 0.677352168795% errors
-Jul 19,2016 - 0.788591826328% errors
-Jul 20,2016 - 0.706981208698% errors
-Jul 21,2016 - 0.762453714682% errors
-Jul 22,2016 - 0.740875912409% errors
-Jul 23,2016 - 0.684140056125% errors
-Jul 24,2016 - 0.788380983738% errors
-Jul 25,2016 - 0.721109512744% errors
-Jul 26,2016 - 0.733577859286% errors
-Jul 27,2016 - 0.678097631277% errors
-Jul 28,2016 - 0.7223733549% errors
-Jul 29,2016 - 0.700031153219% errors
-Jul 30,2016 - 0.726095544663% errors
-Jul 31,2016 - 0.722822743651% errors
+July 17, 2016 - 2.26% errors
